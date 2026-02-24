@@ -31,7 +31,7 @@ im just coding for fun
 ---
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/fenterina/fenterina/main/Kung_Fury_Thank_You_Transformers_Style.gif"
+    src="https://raw.githubusercontent.com/fenterina/fenterina/main/Kung_Fury_Thank_You_Transformers_Style_v2.gif"
     alt="Thank you"
     width="700"
   />
