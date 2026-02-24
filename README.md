@@ -16,10 +16,7 @@
 
 <h2 align="center">🎛️ Now Playing</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NOW%20PLAYING-Coding%20Session%20%F0%9F%92%BB-00E5FF?style=for-the-badge&labelColor=0B1020" alt="Now Playing"/>
-  <img src="https://img.shields.io/badge/Mode-Retro%20Synthwave-FF4DFF?style=for-the-badge&labelColor=0B1020" alt="Mode"/>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nzsyfsjzzis3x3y3ov5rt2t45y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=3&section=header" width="900" alt="Divider"/>
