@@ -28,6 +28,12 @@
 <h2 align="center">🔥 Currently Building</h2>
 
 <p align="center">
+  <a href="https://open.spotify.com/user/31nzsyfsjzzis3x3y3ov5rt2t45y?si=7cb1ef7eb42848d9">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0B1020&interchange=true&bar_color=00E5FF&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<p align="center">
   <b>Red Carpet</b> — Mobile Wedding Marketplace (React Native + Supabase)<br/>
   <b>USB Ear Endoscope</b> — Screening + Reliability Study Tool<br/>
   <b>Weekly Practice Apps</b> — Small builds that ship
