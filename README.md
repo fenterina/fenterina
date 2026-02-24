@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Francis%20Enterina&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F80ED&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Project+Manager;Front+End+Developer" />
+  <img src="https://raw.githubusercontent.com/fenterina/fenterina/main/github_header_francis_animated.gif" alt="Francis Enterina Header" />
 </p>
 # 💫 About Me:
 im just coding for fun
