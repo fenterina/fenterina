@@ -32,7 +32,7 @@ im just coding for fun
 <br><br>
 
 <p align="center">
-  <img src="[YOUR_RAW_LINK_HERE](https://raw.githubusercontent.com/fenterina/fenterina/main/Kung_Fury_Thank_You_Transformers_Style.gif" alt="Thank You Animation)" width="700" />
+  <img src="[YOUR_RAW_LINK_HERE](https://raw.githubusercontent.com/fenterina/fenterina/main/Kung_Fury_Thank_You_Transformers_Style.gif)" width="700" />
 </p>
 
 <br>
