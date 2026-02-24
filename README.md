@@ -11,9 +11,8 @@ im just coding for fun
 ![](https://github-readme-stats.vercel.app/api?username=fenterina&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=fenterina&theme=dark&hide_border=false)
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fenterina&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=fenterina&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)](https://github.com/fenterina)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
