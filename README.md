@@ -19,7 +19,7 @@ im just coding for fun
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Francis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=fenterina&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/fenterina?tab=repositories)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Francis&icon=1&color=1)](https://visitcount.itsvg.in)
@@ -27,10 +27,4 @@ im just coding for fun
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fenterina) 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenterina&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/fenterina)
-
-[![Streak](https://nirzak-streak-stats.vercel.app/?user=fenterina&theme=dark&hide_border=false)](https://github.com/fenterina)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenterina&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/fenterina?tab=repositories)
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
