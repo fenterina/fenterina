@@ -1,3 +1,12 @@
+<h1 align="center">Francis Enterina</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=2F80ED&center=true&vCenter=true&width=560&lines=Information+Systems+Student;Project+Manager;Front+End+Developer"
+    alt="Typing subtitles"
+  />
+</p>
+
 # 💫 About Me:
 im just coding for fun
 
