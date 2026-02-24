@@ -29,4 +29,10 @@ im just coding for fun
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fenterina) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br><br>
+
+<p align="center">
+  <img src="YOUR_RAW_LINK_HERE" width="700" />
+</p>
+
+<br>
