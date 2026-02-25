@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="400" viewBox="0 0 1200 400"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="6" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Flicker Animation -->
+    <style>
+      @keyframes flicker {
+        0% { opacity: 1; }
+        5% { opacity: 0.85; }
+        10% { opacity: 1; }
+        15% { opacity: 0.9; }
+        20% { opacity: 1; }
+        25% { opacity: 0.8; }
+        30% { opacity: 1; }
+        50% { opacity: 0.95; }
+        70% { opacity: 1; }
+        85% { opacity: 0.9; }
+        100% { opacity: 1; }
+      }
+
+      .name {
+        font-family: 'Neuropol', sans-serif;
+        font-size: 64px;
+        fill: #001f4d;
+        stroke: #00bfff;
+        stroke-width: 2;
+        filter: url(#neonGlow);
+        animation: flicker 3s infinite;
+      }
+
+      .subtitle {
+        font-family: Arial, sans-serif;
+        font-size: 22px;
+        fill: #e0f7ff;
+        letter-spacing: 2px;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0a1a2f"/>
+  
+  <!-- Neon Tube Top -->
+  <rect x="250" y="40" width="700" height="6" fill="#00bfff" filter="url(#neonGlow)"/>
+
+  <!-- Name -->
+  <text x="600" y="200" text-anchor="middle" class="name">
+    Francis Enterina
+  </text>
+
+  <!-- Subtitles -->
+  <text x="600" y="250" text-anchor="middle" class="subtitle">
+    Information Systems Student
+  </text>
+  <text x="600" y="280" text-anchor="middle" class="subtitle">
+    Project Manager
+  </text>
+  <text x="600" y="310" text-anchor="middle" class="subtitle">
+    Front end developer
+  </text>
+
+</svg>
