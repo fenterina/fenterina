@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fenterina/fenterina/main/github_header_francis_animated.gif" alt="Francis Enterina Header" />
+  <img src="./assets/github-header-neon-pulse.svg" width="100%" />
 </p>
 
 <p align="center">
